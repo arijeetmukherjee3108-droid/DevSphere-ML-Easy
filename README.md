@@ -2,7 +2,7 @@
 # Challenge Overview 
 
 
-dataset : https://raw.githubusercontent.com/AnjulaMehto/MCA/main/student_scores%20(1).csv
+https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
 
 Welcome to ScoreScouter, a predictive engine designed to help students estimate their exam percentages based on their study hours. The previous developer was clearly suffering from "Finals Week Syndrome"—they’ve left you a script that is riddled with simple syntax errors, logical inversions, and data-handling nightmares.
 
