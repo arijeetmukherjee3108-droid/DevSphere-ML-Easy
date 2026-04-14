@@ -1,9 +1,8 @@
 # 🟢 Easy: ScoreScouter (The "Burnt-Out" Linear Regressor)
 # Challenge Overview 
 
-https://www.kaggle.com/code/vedanthumbe/devsphere-easy-challenge
 
-dataset : https://www.kaggle.com/datasets/peterkmutua/student-hours-scores 
+dataset : https://raw.githubusercontent.com/AnjulaMehto/MCA/main/student_scores%20(1).csv
 
 Welcome to ScoreScouter, a predictive engine designed to help students estimate their exam percentages based on their study hours. The previous developer was clearly suffering from "Finals Week Syndrome"—they’ve left you a script that is riddled with simple syntax errors, logical inversions, and data-handling nightmares.
 
